@@ -1,0 +1,123 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  background-color: rgb(127, 77, 173);
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  align-items: center;
+}
+
+body div h1 {
+  color: rgb(81, 48, 113);
+}
+div {
+  text-align: center;
+  background: rgb(0, 0, 0);
+  margin: 30px;
+  padding: 15px;
+  border-radius: 30px;
+}
+
+.grey {
+  font-size: 20px;
+  color: grey;
+}
+
+.red {
+  background-color: red;
+  border-radius: 4px;
+}
+.purple {
+  background-color: purple;
+  border-radius: 4px;
+}
+.green {
+  background-color: green;
+  border-radius: 4px;
+}
+
+body a {
+  background-color: (120, 120, 120);
+  color: grey;
+  text-decoration: none;
+}
+
+.curriculo {
+  text-align: word-wrap;
+  color: grey;
+  text-align: center;
+  background: black;
+  margin: 50px;
+  padding: 40px;
+  border-radius: 30px;
+  max-width: 500px;
+  height: 100px;
+}
+
+.curriculo2 {
+  text-align: word-wrap;
+  color: grey;
+  text-align: center;
+  background: black;
+  margin: 50px;
+  padding: 40px;
+  border-radius: 30px;
+  max-width: 500px;
+  height: 60px;
+}
+
+p {
+  margin: 0px;
+}
+
+b {
+  color: rgb(159, 158, 158);
+}
+
+.dados1 {
+  background-color: rgb(127, 77, 173);
+  color: aliceblue;
+  text-align: right;
+  margin: 40px;
+  padding: 0px;
+  height: 5px;
+}
+
+.dados2 {
+  background-color: rgb(127, 77, 173);
+  color: aliceblue;
+  text-align: right;
+  margin: 40px;
+  padding: 0px;
+  height: 5px;
+}
+
+.me {
+  display: flexbox;
+  float: inline-end;
+  width: 195px;
+  height: 347, 5px;
+  border-radius: 0px;
+}
+
+.end {
+  height: 15px;
+  border-radius: 0px;
+}
+
+.dados3 {
+  background-color: rgb(127, 77, 173);
+  font-size: 18px;
+  padding-bottom: 90px;
+  text-align: left;
+}
+
+.end2 {
+  padding: 4px;
+  width: 100px;
+  margin: 0px;
+  border-radius: 0px;
+}
